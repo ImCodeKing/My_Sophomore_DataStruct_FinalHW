@@ -1,0 +1,7 @@
+# Created by Open3D 
+# object name: image_mesh_try
+newmtl image_mesh_try_0
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+map_Kd image_mesh_try_0.png
